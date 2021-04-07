@@ -25,7 +25,7 @@ Can you think of other examples of secondary sources?
 
 ## Finding Secondary Sources
 
-### Library Catalog
+### JumboSearch and Libraries Worldwide
 
 For the best results, combine subject terms with keyword searching.
 
@@ -35,7 +35,7 @@ For the best results, combine subject terms with keyword searching.
 * What kind of source are you looking for? Journal article? Book? Essay?
 * Do you need to find full-text items or will bibliographic information do?
 
-#### Useful Databases
+### Useful Databases
 
 ### Use Google, but use it wisely
 
