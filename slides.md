@@ -76,7 +76,7 @@ For the best results, combine subject terms with keyword searching.
 ## Using Secondary Sources
 
 ### BEAM model for using sources
-* Background: use a source to provide general information to explain the topic.
-* Exhibit: use a source as evidence or examples to analyze.
-* Argument: use a source to engage its argument.
-* Method: use a source’s way of analyzing an issue to apply to your own issue.
+* **Background**: use a source to provide general information to explain the topic.
+* **Exhibit**: use a source as evidence or examples to analyze.
+* **Argument**: use a source to engage its argument.
+* **Method**: use a source’s way of analyzing an issue to apply to your own issue.
