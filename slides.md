@@ -5,8 +5,6 @@
 ## Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
-<a href = "https://go.tufts.edu/saxton" target="_blank">go.tufts.edu/saxton</a> 
-<br> 
 micah.saxton@tufts.edu
 
 
@@ -21,22 +19,25 @@ A _secondary source_ is a scholarly discussion based on primary sources. Typical
 * Lectures
 * Podcasts
 
-Can you think of other examples of secondary sources?
+
+## Tips for Finding Secondary Sources
+
+### Use Reference tools to build your bibliography and find key words for searching.
+
+* [Oxford bibliographies](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=obo)
+* [CREDO Reference](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=xreferplus)
 
 
-## Finding Secondary Sources
+### Search beyond Tisch Library.
 
-### JumboSearch and Libraries Worldwide
+* [Libraries worldwide](https://tufts.on.worldcat.org/discovery)
 
-For the best results, combine subject terms with keyword searching.
 
-### Databases
+### Find the right database, not just the one you are familiar with.
 
-* Are you looking for a subject specific database?
-* What kind of source are you looking for? Journal article? Book? Essay?
-* Do you need to find full-text items or will bibliographic information do?
+* [Historical Abstracts](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=histabs)
+* [HAPI Online](http://www.library.tufts.edu/ezproxy/ezproxy.asp?LOCATION=HAPI)
 
-### Useful Databases
 
 ### Use Google, but use it wisely
 
@@ -44,6 +45,15 @@ For the best results, combine subject terms with keyword searching.
 * Google will customize your search results based your previous sources.
 * Google does not rank its results based on credibility.
 * [Google Scholar](https://scholar.google.com/) is more useful for finding scholarly literature than the main Google search.
+
+
+### Document your research and manage your citations
+
+* Maintain a research log to track database searches, keep an annotated bibliography, and take reading notes.
+* [Sample research log](https://msaxton.notion.site/Sample-Research-Log-5d5743036c394ad184bab74eebf78acd)
+
+* Use [Zotero](https://www.zotero.org/) or similar software to manage your citations.
+* [Quick Start Guide for Zotero](https://www.zotero.org/support/quick_start_guide)
 
 
 ## Evaluating Secondary Sources
@@ -56,7 +66,6 @@ For the best results, combine subject terms with keyword searching.
 * Abstracts
 * Indexes
 * Bibliography
-
 
 ### Reliability
 * Is this source reliable in the information it provides?
