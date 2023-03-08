@@ -44,6 +44,12 @@ A _secondary source_ is a scholarly discussion based on primary sources. Typical
 1. Examine the subject terms associated with items returned from keyword searching.
 2. Browse the subject terms used in the database.
 
+#### Practice
+* Search JumboSearch using your keywords.
+* Make note of one useful book result.
+* Examine the subject terms assigned to that book.
+* Use subject terms to find at least two relevant items.
+
 
 ### Search beyond Tisch Library.
 
